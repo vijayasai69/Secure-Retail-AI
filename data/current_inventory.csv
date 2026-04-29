@@ -1,0 +1,21 @@
+product_id,product_name,category,current_stock
+P001,Aashirvaad Atta 5kg,Groceries,1351
+P002,Tata Salt 1kg,Groceries,385
+P003,Maggi Noodles 140g,Snacks,610
+P004,Amul Butter 100g,Dairy,1586
+P005,Britannia Marie Gold 250g,Snacks,57
+P006,Surf Excel Matic 1kg,Household,110
+P007,Colgate Toothpaste 100g,Personal Care,406
+P008,Paracetamol 500mg (Strip),Pharmacy,3005
+P009,Dettol Antiseptic Liquid 250ml,Pharmacy,876
+P010,Cough Syrup 100ml,Pharmacy,887
+P011,Fortune Sunflower Oil 1L,Groceries,1501
+P012,Lays Classic Salted 50g,Snacks,26
+P013,Coca Cola 1.25L,Beverages,936
+P014,Thumbs Up 1.25L,Beverages,483
+P015,Red Label Tea 250g,Beverages,148
+P016,Nescafe Coffee 50g,Beverages,1159
+P017,Vim Dishwash Bar 200g,Household,1267
+P018,Harpic Toilet Cleaner 500ml,Household,613
+P019,Dove Soap 100g,Personal Care,1348
+P020,Band-Aid (Pack of 100),Pharmacy,199
